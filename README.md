@@ -1,6 +1,6 @@
 # scaleway-start-instances
 
-Firefox Add-on that allows you to create Start instances within the scaleway web interface.
+Firefox Add-on that allows you to create Start instances within the [scaleway web interface](https://console.scaleway.com/).
 
 ## Usage
 
