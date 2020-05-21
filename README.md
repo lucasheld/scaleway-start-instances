@@ -8,3 +8,7 @@ Firefox Add-on that allows you to create Start instances within the [scaleway we
 2. open `about:debugging#/runtime/this-firefox`
 3. click on `Load Temporary Add-on`
 4. select `manifest.json` from repository
+
+## Screenshot
+
+<img src="screenshot.png" alt="start instances" width="750"/>
